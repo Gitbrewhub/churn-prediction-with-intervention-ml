@@ -70,7 +70,7 @@ Deployment as an API or dashboard
 
 
 How the run the Project?
-Clone the repo = git clone https://github.com/<your-username>/customer-churn-prediction.git
+Clone the repo = git clone https://github.com/Gitbrewhub/customer-churn-prediction.git
 cd customer-churn-prediction
 
 set the environment = pip install -r requirements.txt
