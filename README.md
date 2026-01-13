@@ -70,7 +70,7 @@ Deployment as an API or dashboard
 
 
 How the run the Project?
-Clone the repo = git clone https://github.com/Telecom_churn.ipynb
+Clone the repo = git clone Telecom_churn.ipynb
 set the environment = pip install -r requirements.txt
 
 Download the dataset:
