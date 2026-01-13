@@ -70,9 +70,7 @@ Deployment as an API or dashboard
 
 
 How the run the Project?
-Clone the repo = git clone https://github.com/Gitbrewhub/customer-churn-prediction.git
-cd customer-churn-prediction
-
+Clone the repo = git clone https://github.com/Telecom_churn.ipynb
 set the environment = pip install -r requirements.txt
 
 Download the dataset:
