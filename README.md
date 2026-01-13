@@ -70,8 +70,9 @@ Deployment as an API or dashboard
 
 
 How the run the Project?
-Clone the repo = git clone Telecom_churn.ipynb
-set the environment = pip install -r requirements.txt
+git clone https://github.com/Gitbrewhub/churn-prediction-with-intervention-ml.git
+cd churn-prediction-with-intervention-ml
+
 
 Download the dataset:
 Due to licensing constraints, the dataset is not included in this repository.
